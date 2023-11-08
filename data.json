@@ -1,0 +1,26 @@
+[
+    {
+        "_id": "654a11d1dac9a228b1e8e966",
+        "mentorId": "1",
+        "mentorName": "akansha",
+        "role": "mentor",
+        "course": "full stack devolpment",
+        "assignedStudents": []
+    },
+    {
+        "_id": "654a11dedac9a228b1e8e967",
+        "mentorId": "2",
+        "mentorName": "priya",
+        "role": "mentor",
+        "course": "full stack devolpment",
+        "assignedStudents": []
+    },
+    {
+        "_id": "654a11efdac9a228b1e8e968",
+        "mentorId": "3",
+        "mentorName": "satish",
+        "role": "mentor",
+        "course": "full stack devolpment",
+        "assignedStudents": []
+    }
+]
